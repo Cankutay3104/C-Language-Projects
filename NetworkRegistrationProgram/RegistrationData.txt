@@ -1,0 +1,6 @@
+REGID NAME SURNAME STATUS YEAR DEVICEMACADDRESS
+1 Alice Johnson Approved 2025 00:1A:C2:7B:00:47
+2 Bob Smith Declined 2024 00:1A:D2:7B:11:48
+3 Ahmed Zorlu Approved 2023 00:C2:45:7B:1A:49
+4 Diana Brown Blocked 2024 00:1A:C2:7B:00:50
+5 Alice Johnson Approved 2025 00:2B:C2:9A:01:78
