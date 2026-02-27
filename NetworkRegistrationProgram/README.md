@@ -1,4 +1,4 @@
-### 2. Network Registration System
+# Network Registration System
 
 ## Description
 A management utility designed for IT officers to process university network device registrations. 
